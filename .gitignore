@@ -2,3 +2,4 @@
 .codelite
 *.workspace
 *.exe
+cfpset/*
